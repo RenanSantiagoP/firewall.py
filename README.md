@@ -37,9 +37,14 @@ Exemplo de Saída
 A saída será semelhante a esta (os IPs e números aleatórios mudarão a cada execução):
 
 IP: 192.168.10.10, Action: block, Random: 4582
+
 IP: 192.168.10.7, Action: allow, Random: 901
+
 IP: 192.168.10.15, Action: block, Random: 7763
+
 IP: 192.168.10.1, Action: allow, Random: 1234
+
 IP: 192.168.10.4, Action: block, Random: 8842
+
 IP: 192.168.10.18, Action: allow, Random: 3021
 ...
