@@ -22,7 +22,7 @@ Como Usar:
 Pré-requisitos - Você precisa ter o Python 3 instalado em sua máquina.
 
 Executando o Script
-Salve o código em um arquivo (por exemplo, firewalll.py).
+Salve o código em um arquivo (por exemplo, firewall.py).
 
 Abra seu terminal ou prompt de comando.
 
@@ -32,7 +32,7 @@ Execute o script usando o comando:
 
 Bash
 
-python firewalll.py
+python firewall.py
 Exemplo de Saída
 A saída será semelhante a esta (os IPs e números aleatórios mudarão a cada execução):
 
